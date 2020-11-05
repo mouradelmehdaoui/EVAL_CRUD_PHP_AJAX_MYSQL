@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Peralta&family=Raleway&display=swap');
+
+
+* {
+
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+
+    background-color: rgba(227, 242, 253, 0.38);
+    position: relative;
+    margin-left: 10rem;
+    margin-right: 10rem;
+
+}
+
+.navbar {
+
+    height: 6rem;
+}
+
+#image {
+
+    width: 450px;
+    height: 500px;
+}
+
+h6 {
+
+    color: whitesmoke;
+    background-color: #00838f;
+    font-family: 'Peralta', cursive;
+}
+
+.titre {
+
+    color: whitesmoke;
+    background-color: #00838f;
+    font-size: 3rem;
+    font-family: 'Peralta', cursive;
+}
+.defi {
+
+    color: #0bb3c9;
+    font-size: 2rem;
+    font-family: "Times New Roman"!important;
+}
+
+.conteneur {
+    clear: both;
+    height: 0; overflow: hidden; /* Précaution pour IE 7 */
+}
+
+.multiple {
+
+    font-size: 3rem;
+    border: none;
+}
+
+#nbr1, #nbr2 {
+
+
+}
+#nbr1 {
+
+
+    font-size: 3rem;
+    margin-left: 20rem;
+}
+#nbr2 {
+
+
+    font-size: 3rem;
+}
+
+#btn-valider {
+
+    height: 4rem;
+}
+
+#multiplication {
+
+    font-size: 4rem;
+    border: transparent;
+    padding: 1rem;
+    text-align: center;
+}
+
+#input-resultat {
+
+    border: transparent;
+
+}
+
+#pageLogin {
+
+    display: inline-block;
+    margin-top: 2rem;
+    font-weight: bold;
+}
+
+.cadre-formulaire {
+
+width: 30%;
+    margin: 4rem auto;
+
+}
+
+.login {
+
+    display: block;
+
+}
+
+.fa-10x {
+
+
+    color: #079393;
+    padding: 1rem;
+    margin-left: 1rem;
+
+}
+
+#login {
+    display: block;
+    margin : auto;
+}
+
